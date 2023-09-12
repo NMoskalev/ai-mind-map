@@ -20,6 +20,9 @@ markmap:
 #### Google
 ##### Vertex AI
 
+#### Anthropic
+##### Claude Pro
+
 ### Self-hosted
 
 #### Common
