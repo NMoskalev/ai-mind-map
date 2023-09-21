@@ -46,13 +46,14 @@ markmap:
 
 #### Replicate
 
+#### Anyscale
+
 
 ## Technics
 
 ### Training
 
 ### Embedding
-#### Chroma
 
 ### Fine-tunning
 #### LoRA
@@ -74,14 +75,30 @@ markmap:
 #### Multiplayer Agent
 ##### MetaGPT
 
+#### Tools & Agents
+##### Transformers Agent (Hugging Face)
+
 ### Memorizing
 
 #### Buffer
+##### Conversation Window
+##### Conversarion Entity
+##### Conversation Knowledge Graph
+##### Conversation Summary
+##### Conversation Token 
+
 #### Vector DB
 ##### Pinecone
 ##### Supabase
+##### Elasticsearch
+##### Chroma
+
 #### KV DB
+##### AWS DynamoDB
+##### Redis
 #### SQL DB
+##### PostgreSQL
+##### MSSQL
 
 
 ## Data
@@ -119,5 +136,6 @@ markmap:
 ### LangChain
 ### Semantic Kernel
 ### MS Guidance
+### Haystack
 
 ## Synthetic data
