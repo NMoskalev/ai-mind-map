@@ -4,12 +4,12 @@ A visual representation illustrating a specific segment within the realm of gene
 
 ## Repository
 
-You can find illustration for this project [here](https://nmoskalev.github.io/ai-mind-map/), where the content is rendered using Markmap.
+You can find illustration for this project [here][2], where the content is rendered using Markmap.
 
-[<img width="245px" src="https://github.com/NMoskalev/ai-mind-map/assets/2025105/c50dbc1d-93a3-40df-8652-6c2b44b79e33">](https://nmoskalev.github.io/ai-mind-map/)
+[![alt text][1]][2]
 ## How to Contribute
 
-Feel free to contribute to this project by making changes to the `src/mindmap.mm.md` file, which is rendered via [Markmap](https://markmap.js.org/). Markmap is a combination of Markdown and mindmap. It parses Markdown content and extracts its intrinsic hierarchical structure and renders an interactive mindmap, aka markmap.
+Feel free to contribute to this project by making changes to the `src/mindmap.mm.md` file, which is rendered via [Markmap][3]. Markmap is a combination of Markdown and mindmap. It parses Markdown content and extracts its intrinsic hierarchical structure and renders an interactive mindmap, aka markmap.
 
 ### Getting Started
 
@@ -21,7 +21,7 @@ Feel free to contribute to this project by making changes to the `src/mindmap.mm
 
 2. Make changes to the `src/mindmap.mm.md` file as needed.
 
-3. Preview your changes using the Markmap rendering by following the [Markmap documentation](https://markmap.js.org/).
+3. Preview your changes using the Markmap rendering by following the [Markmap documentation][3].
 
 4. Export your changes as html
 
@@ -29,6 +29,11 @@ Feel free to contribute to this project by making changes to the `src/mindmap.mm
 
 ### Using Visual Studio Code (VSCode)
 
-If you prefer working in Visual Studio Code (VSCode), you can use the Markmap extension to render and edit your mind map. Simply install the extension and open the `src/mindmap.mm.md` file in VSCode. You can find the Markmap extension in the [Visual Studio Code Marketplace](https://marketplace.visualstudio.com/items?itemName=gera2ld.markmap-vscode).
+If you prefer working in Visual Studio Code (VSCode), you can use the Markmap extension to render and edit your mind map. Simply install the extension and open the `src/mindmap.mm.md` file in VSCode. You can find the Markmap extension in the [Visual Studio Code Marketplace][4].
 
 Happy contributing!
+
+[1]: https://github-production-user-asset-6210df.s3.amazonaws.com/2025105/271169996-e4f46890-7247-4506-8baf-1a8d91ec7775.png
+[2]: https://nmoskalev.github.io/ai-mind-map/
+[3]: https://markmap.js.org/
+[4]: https://marketplace.visualstudio.com/items?itemName=gera2ld.markmap-vscode
