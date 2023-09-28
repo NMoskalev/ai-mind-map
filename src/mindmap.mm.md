@@ -19,6 +19,7 @@ markmap:
 
 #### Google
 ##### Vertex AI
+##### PaLM API
 
 #### Anthropic
 ##### Claude Pro
@@ -138,4 +139,13 @@ markmap:
 ### MS Guidance
 ### Haystack
 
+## AI Playgrounds
+
+### Metatext.ai
+### Google MakerSuite
+### Google Vertex AI Platform
+
+
 ## Synthetic data
+### Mostly.ai
+### Synthesis.ai
