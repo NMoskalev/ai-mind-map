@@ -10,7 +10,7 @@ markmap:
 
 #### OpenAI
 ##### ChatGPT-4
-###### Code Interpreter
+###### Code Interpreter plugin
 
 ##### ChatGPT Enterprise
 
@@ -34,8 +34,13 @@ markmap:
 
 
 #### Subject-specific
+##### Code
+###### StableCode
+###### Code Llama (Base, Instruct)
+###### StarCoder
+###### SafeCoder
+###### CodeT5
 
-##### StableCode-Instruct-Alpha-3B (Python, Go, Java, and more)
 ##### Gorilla (over 1,600 APIs)
 ##### Dolly 2 (15k prompts)
 
@@ -124,14 +129,6 @@ markmap:
 #### Indexing
 ##### LlamaIndex
 
-## AI Platforms
-
-### Clarifai
-
-### EPAM AI DIAL
-
-### LangSmith
-
 ## AI Frameworks
 
 ### LangChain
@@ -139,11 +136,27 @@ markmap:
 ### MS Guidance
 ### Haystack
 
+## AI Platforms
+
+### Clarifai
+### EPAM AI DIA
+### LangSmith
+
+## AI UI Platforms
+### Stremlit.io
+### Gradio
+### HuggingFace Chat UI
+
+
 ## AI Playgrounds
 
 ### Metatext.ai
 ### Google MakerSuite
 ### Google Vertex AI Platform
+### HuggingFace Spaces
+### HuggingFace AutoTrain
+### HuggingFace Inference Endpoints
+### Salesforce AI playground
 
 
 ## Synthetic data
