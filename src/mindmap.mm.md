@@ -19,7 +19,7 @@ markmap:
 
 #### Google
 ##### Vertex AI
-##### PaLM API
+##### PaLM 2 API
 
 #### Anthropic
 ##### Claude Pro
@@ -31,6 +31,8 @@ markmap:
 ##### Claude
 ##### Falcon
 ##### Pythia
+##### Mistral 7B
+##### Google Gemini (not available yet)
 
 
 #### Subject-specific
@@ -40,10 +42,18 @@ markmap:
 ###### StarCoder
 ###### SafeCoder
 ###### CodeT5
+###### Google Codey
 
-##### Gorilla (over 1,600 APIs)
+##### API
+###### Gorilla (over 1,600 APIs)
+###### NexusRaven-13B
 ##### Dolly 2 (15k prompts)
 
+
+#### Multi-model
+##### AnyMAL
+##### LLaVA
+##### ChatGPT-4V
 ### SaaS
 
 #### AWS SageMaker
@@ -57,9 +67,7 @@ markmap:
 
 ## Technics
 
-### Training
-
-### Embedding
+### Pre-Training
 
 ### Fine-tunning
 #### LoRA
@@ -77,6 +85,8 @@ markmap:
 
 #### Task driven autonomous Agent
 ##### BabyAGI
+##### Microsoft AutoGen
+##### AutoGPT
 
 #### Multiplayer Agent
 ##### MetaGPT
@@ -86,18 +96,20 @@ markmap:
 
 ### Memorizing
 
-#### Buffer
-##### Conversation Window
-##### Conversarion Entity
-##### Conversation Knowledge Graph
-##### Conversation Summary
-##### Conversation Token 
+#### Conversation Window
+#### Conversarion Entity
+#### Conversation Knowledge Graph
+#### Conversation Summary
+#### Conversation Token 
 
+### Embedding
 #### Vector DB
 ##### Pinecone
 ##### Supabase
 ##### Elasticsearch
 ##### Chroma
+##### MongoDB
+##### Milvus
 
 #### KV DB
 ##### AWS DynamoDB
@@ -109,8 +121,12 @@ markmap:
 
 ## Data
 
+### Synthetic
+#### Mostly.ai
+#### Synthesis.ai
+#### gretel.ai
 ### Structured
-
+### Semi-structured
 ### Unstructured
 
 #### Loader
@@ -129,36 +145,57 @@ markmap:
 #### Indexing
 ##### LlamaIndex
 
-## AI Frameworks
+## Services
 
-### LangChain
-### Semantic Kernel
-### MS Guidance
-### Haystack
+### Frameworks
+#### Development
 
-## AI Platforms
+##### LangChain (Python, JS)
+##### LlamaIndex (Python, JS)
+##### Semantic Kernel (C#, Python, Java)
+##### Microsoft Guidance (Python)
+##### Deepset Haystack (Python)
+##### Guardrails AI (Python)
 
-### Clarifai
-### EPAM AI DIA
-### LangSmith
+#### AI ETL
+##### Unstructured.io
+##### Neum.ai
+##### Clarifai
+##### EPAM AI DIA
+##### LangSmith
 
-## AI UI Platforms
-### Stremlit.io
-### Gradio
-### HuggingFace Chat UI
+#### AI UI
+##### Stremlit.io
+##### Gradio
+##### HuggingFace Chat UI
+##### Retool
+##### Google Project IDX
+##### Vercel v0
+
+### Platforms
+
+#### IaaS
+##### AWS/Azure/GCP
+##### Anyscale
+##### Runpod
+##### CoreWeave
+
+#### PaaS
+##### Playgrounds
+###### Metatext.ai
+###### Google MakerSuite
+###### Google Vertex AI Platform
+###### HuggingFace Spaces/AutoTrain/Inference Endpoints
+###### Salesforce AI playground
+###### AWS Bedrock
+
+##### LLMOps
+
+###### Humanloop
+###### Arthur.ai
+###### Helicone.ai
 
 
-## AI Playgrounds
+#### Serverless
 
-### Metatext.ai
-### Google MakerSuite
-### Google Vertex AI Platform
-### HuggingFace Spaces
-### HuggingFace AutoTrain
-### HuggingFace Inference Endpoints
-### Salesforce AI playground
-
-
-## Synthetic data
-### Mostly.ai
-### Synthesis.ai
+##### Cloudflare Workers AI
