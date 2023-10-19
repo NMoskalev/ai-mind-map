@@ -28,8 +28,8 @@ markmap:
 
 #### Common
 ##### Llama 2
-##### Claude
-##### Falcon
+##### Claude 2
+##### Falcon 180B
 ##### Pythia
 ##### Mistral 7B
 ##### Google Gemini (not available yet)
@@ -43,6 +43,7 @@ markmap:
 ###### SafeCoder
 ###### CodeT5
 ###### Google Codey
+###### Replit Code V1.5 3B
 
 ##### API
 ###### Gorilla (over 1,600 APIs)
@@ -68,6 +69,10 @@ markmap:
 ## Technics
 
 ### Pre-Training
+#### ALiBi
+#### LionW optimizer
+#### FlashAttention
+#### QKV clipping
 
 ### Fine-tunning
 #### LoRA
@@ -79,7 +84,8 @@ markmap:
 #### Zero-Shot
 #### Few-Shot
 #### ReAct
-#### Chain-of-Thought
+#### Chain-of-Thought (CoT)
+#### Auto CoT
 
 ### Agent
 
@@ -97,7 +103,7 @@ markmap:
 ### Memorizing
 
 #### Conversation Window
-#### Conversarion Entity
+#### Conversation Entity
 #### Conversation Knowledge Graph
 #### Conversation Summary
 #### Conversation Token 
@@ -148,6 +154,10 @@ markmap:
 ## Services
 
 ### Frameworks
+#### Guardrails
+##### Guardrails AI
+##### NeMo-Guardrails
+
 #### Development
 
 ##### LangChain (Python, JS)
@@ -156,6 +166,7 @@ markmap:
 ##### Microsoft Guidance (Python)
 ##### Deepset Haystack (Python)
 ##### Guardrails AI (Python)
+##### Orca (Rust)
 
 #### AI ETL
 ##### Unstructured.io
