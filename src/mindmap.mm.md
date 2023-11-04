@@ -66,7 +66,7 @@ markmap:
 #### Anyscale
 
 
-## Technics
+## Training
 
 ### Pre-Training
 #### ALiBi
@@ -79,13 +79,18 @@ markmap:
 #### Soft prompts
 #### RLHF
 #### PAL
+#### ULMFiT
+
+## Inference
 
 ### Prompting
 #### Zero-Shot
 #### Few-Shot
 #### ReAct
-#### Chain-of-Thought (CoT)
+#### Chain of Thought (CoT)
 #### Auto CoT
+#### Tree of Thoughts
+#### Self-Consistency
 
 ### Agent
 
@@ -116,6 +121,8 @@ markmap:
 ##### Chroma
 ##### MongoDB
 ##### Milvus
+#### Search
+##### FAISS
 
 #### KV DB
 ##### AWS DynamoDB
@@ -161,6 +168,7 @@ markmap:
 #### Development
 
 ##### LangChain (Python, JS)
+##### LangChain Expression Language (LCEL)
 ##### LlamaIndex (Python, JS)
 ##### Semantic Kernel (C#, Python, Java)
 ##### Microsoft Guidance (Python)
