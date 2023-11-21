@@ -39,6 +39,7 @@ markmap:
 ##### Code
 ###### StableCode
 ###### Code Llama (Base, Instruct)
+###### Phind Code Llama
 ###### StarCoder
 ###### SafeCoder
 ###### CodeT5
@@ -91,6 +92,7 @@ markmap:
 #### Auto CoT
 #### Tree of Thoughts
 #### Self-Consistency
+#### In-context learning
 
 ### Agent
 
@@ -189,7 +191,7 @@ markmap:
 ##### HuggingFace Chat UI
 ##### Retool
 ##### Google Project IDX
-##### Vercel v0
+##### Vercel V0
 
 ### Platforms
 
@@ -201,12 +203,20 @@ markmap:
 
 #### PaaS
 ##### Playgrounds
-###### Metatext.ai
-###### Google MakerSuite
-###### Google Vertex AI Platform
-###### HuggingFace Spaces/AutoTrain/Inference Endpoints
+###### Azure AI
+###### Google Vertex AI
+###### HuggingFace Spaces
 ###### Salesforce AI playground
 ###### AWS Bedrock
+
+##### Low-code tools
+###### Respell
+###### Azure AI Studio
+###### Google MakerSuite
+###### AWS PartyRock
+###### BuildShip
+###### FlowiseAI
+
 
 ##### LLMOps
 
