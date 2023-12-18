@@ -8,6 +8,8 @@ markmap:
 
 ### Paid API
 
+#### X
+##### Grok
 #### OpenAI
 ##### ChatGPT-4
 ###### Code Interpreter plugin
@@ -22,7 +24,14 @@ markmap:
 ##### PaLM 2 API
 
 #### Anthropic
-##### Claude Pro
+##### Claude 2.1
+##### Claude Instant
+#### Cohere
+##### Coral
+#### Inflection
+##### Pi
+#### Perplexity
+##### Pplx-api
 
 ### Self-hosted
 
@@ -31,11 +40,15 @@ markmap:
 ##### Claude 2
 ##### Falcon 180B
 ##### Pythia
-##### Mistral 7B
-##### Google Gemini (not available yet)
+##### Mixtral 8x7B
+##### Google Gemini
 
 
 #### Subject-specific
+##### Small size
+###### Mistral 7B
+###### Phi-2
+###### Orca 2
 ##### Code
 ###### StableCode
 ###### Code Llama (Base, Instruct)
@@ -68,19 +81,26 @@ markmap:
 
 
 ## Training
+### Tools
+#### Axolotl
 
-### Pre-Training
-#### ALiBi
-#### LionW optimizer
-#### FlashAttention
-#### QKV clipping
+### Technics
+#### Quantization
+##### GPTQ
+##### QLoRA
 
-### Fine-tunning
-#### LoRA
-#### Soft prompts
-#### RLHF
-#### PAL
-#### ULMFiT
+#### Pre-Training
+##### ALiBi
+##### LionW optimizer
+##### FlashAttention
+##### QKV clipping
+
+#### Fine-tunning
+##### LoRA
+##### Soft prompts
+##### RLHF
+##### PAL
+##### ULMFiT
 
 ## Inference
 
@@ -90,9 +110,11 @@ markmap:
 #### ReAct
 #### Chain of Thought (CoT)
 #### Auto CoT
-#### Tree of Thoughts
+#### Tree of Thought
+#### Graph of Thought
 #### Self-Consistency
-#### In-context learning
+#### In-Content learning
+#### Step-back prompting
 
 ### Agent
 
@@ -163,9 +185,13 @@ markmap:
 ## Services
 
 ### Frameworks
+#### Testing
+##### Giskard.ai
+##### Azure AI Studio Evaluation
 #### Guardrails
 ##### Guardrails AI
 ##### NeMo-Guardrails
+##### Guardrails for Amazon Bedrock
 
 #### Development
 
@@ -192,6 +218,7 @@ markmap:
 ##### Retool
 ##### Google Project IDX
 ##### Vercel V0
+##### tldraw
 
 ### Platforms
 
