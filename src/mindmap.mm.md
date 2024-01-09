@@ -12,9 +12,6 @@ markmap:
 ##### Grok
 #### OpenAI
 ##### ChatGPT-4
-###### Code Interpreter plugin
-
-##### ChatGPT Enterprise
 
 #### Microsoft
 ##### Azure OpenAI
@@ -55,20 +52,25 @@ markmap:
 ###### Phind Code Llama
 ###### StarCoder
 ###### SafeCoder
-###### CodeT5
+###### Magicoder
 ###### Google Codey
 ###### Replit Code V1.5 3B
 
 ##### API
 ###### Gorilla (over 1,600 APIs)
 ###### NexusRaven-13B
-##### Dolly 2 (15k prompts)
+##### Finance
+###### DocLLM
+##### Medicine
+###### AlphaFold
+###### Med-PaLM
 
 
 #### Multi-model
 ##### AnyMAL
 ##### LLaVA
 ##### ChatGPT-4V
+##### Gemini Ultra
 ### SaaS
 
 #### AWS SageMaker
@@ -88,6 +90,7 @@ markmap:
 #### Quantization
 ##### GPTQ
 ##### QLoRA
+##### LoftQ
 
 #### Pre-Training
 ##### ALiBi
@@ -101,6 +104,12 @@ markmap:
 ##### RLHF
 ##### PAL
 ##### ULMFiT
+
+#### Merging
+##### SLERP
+##### TIES
+##### DARE
+##### Passthrough
 
 ## Inference
 
@@ -139,6 +148,7 @@ markmap:
 
 ### Embedding
 #### Vector DB
+##### Turbopuffer
 ##### Pinecone
 ##### Supabase
 ##### Elasticsearch
@@ -185,10 +195,14 @@ markmap:
 ## Services
 
 ### Frameworks
+#### Running
+##### OlLama
+##### LLM Farm
 #### Testing
 ##### Giskard.ai
 ##### Azure AI Studio Evaluation
 #### Guardrails
+##### LangKit
 ##### Guardrails AI
 ##### NeMo-Guardrails
 ##### Guardrails for Amazon Bedrock
