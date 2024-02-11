@@ -6,6 +6,9 @@ markmap:
 
 ## Models
 
+### Assistant
+#### OpenAI
+#### HuggingFace
 ### Paid API
 
 #### X
@@ -46,13 +49,12 @@ markmap:
 ###### Mistral 7B
 ###### Phi-2
 ###### Orca 2
+###### Stable LM 2 1.6B
+###### TinyLlama
 ##### Code
-###### StableCode
-###### Code Llama (Base, Instruct)
-###### Phind Code Llama
-###### StarCoder
-###### SafeCoder
-###### Magicoder
+###### Stable Code 3B
+###### Code Llama 70B
+###### SQLCoder 70B
 ###### Google Codey
 ###### Replit Code V1.5 3B
 
@@ -64,6 +66,7 @@ markmap:
 ##### Medicine
 ###### AlphaFold
 ###### Med-PaLM
+###### MedGenie
 
 
 #### Multi-model
@@ -144,7 +147,12 @@ markmap:
 #### Conversation Entity
 #### Conversation Knowledge Graph
 #### Conversation Summary
-#### Conversation Token 
+#### Conversation Token
+
+### RAG Advanced
+#### Auto-merging retrieval
+#### Sentence window retrieval
+#### Graph retrieval
 
 ### Embedding
 #### Vector DB
@@ -198,24 +206,27 @@ markmap:
 #### Running
 ##### OlLama
 ##### LLM Farm
-#### Testing
+#### Evaluation
 ##### Giskard.ai
 ##### Azure AI Studio Evaluation
+##### TruLens
 #### Guardrails
 ##### LangKit
 ##### Guardrails AI
 ##### NeMo-Guardrails
 ##### Guardrails for Amazon Bedrock
 
+#### Optimization
+##### GPTCache
+##### LLMLingua
+
 #### Development
 
 ##### LangChain (Python, JS)
-##### LangChain Expression Language (LCEL)
 ##### LlamaIndex (Python, JS)
 ##### Semantic Kernel (C#, Python, Java)
 ##### Microsoft Guidance (Python)
 ##### Deepset Haystack (Python)
-##### Guardrails AI (Python)
 ##### Orca (Rust)
 
 #### AI ETL
