@@ -24,7 +24,7 @@ markmap:
 ##### PaLM 2 API
 
 #### Anthropic
-##### Claude 2.1
+##### Claude 3
 ##### Claude Instant
 #### Cohere
 ##### Coral
@@ -51,6 +51,9 @@ markmap:
 ###### Orca 2
 ###### Stable LM 2 1.6B
 ###### TinyLlama
+###### Danube-1.8b
+###### Gemma
+
 ##### Code
 ###### Stable Code 3B
 ###### Code Llama 70B
@@ -135,6 +138,8 @@ markmap:
 ##### Microsoft AutoGen
 ##### AutoGPT
 
+#### Sleeper Agent
+
 #### Multiplayer Agent
 ##### MetaGPT
 
@@ -153,6 +158,8 @@ markmap:
 #### Auto-merging retrieval
 #### Sentence window retrieval
 #### Graph retrieval
+#### Matryoshka Representation Learning (MRL)
+#### Self-RAG
 
 ### Embedding
 #### Vector DB
@@ -206,10 +213,13 @@ markmap:
 #### Running
 ##### OlLama
 ##### LLM Farm
+
 #### Evaluation
 ##### Giskard.ai
 ##### Azure AI Studio Evaluation
 ##### TruLens
+##### Ragas
+
 #### Guardrails
 ##### LangKit
 ##### Guardrails AI
@@ -228,6 +238,9 @@ markmap:
 ##### Microsoft Guidance (Python)
 ##### Deepset Haystack (Python)
 ##### Orca (Rust)
+
+#### Fine-tuning
+##### SFTTrainer
 
 #### AI ETL
 ##### Unstructured.io
@@ -262,7 +275,7 @@ markmap:
 ###### AWS Bedrock
 
 ##### Low-code tools
-###### Respell
+###### LlamaCloud
 ###### Azure AI Studio
 ###### Google MakerSuite
 ###### AWS PartyRock
@@ -280,3 +293,4 @@ markmap:
 #### Serverless
 
 ##### Cloudflare Workers AI
+##### Upstash
