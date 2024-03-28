@@ -28,6 +28,7 @@ markmap:
 ##### Claude Instant
 #### Cohere
 ##### Coral
+##### Command R
 #### Inflection
 ##### Pi
 #### Perplexity
@@ -55,7 +56,8 @@ markmap:
 ###### Gemma
 
 ##### Code
-###### Stable Code 3B
+###### StableCode 3B
+###### Star Coder 2
 ###### Code Llama 70B
 ###### SQLCoder 70B
 ###### Google Codey
@@ -70,6 +72,8 @@ markmap:
 ###### AlphaFold
 ###### Med-PaLM
 ###### MedGenie
+##### Law
+###### Saul-7B
 
 
 #### Multi-model
@@ -137,6 +141,7 @@ markmap:
 ##### BabyAGI
 ##### Microsoft AutoGen
 ##### AutoGPT
+##### superagent.sh
 
 #### Sleeper Agent
 
@@ -160,6 +165,10 @@ markmap:
 #### Graph retrieval
 #### Matryoshka Representation Learning (MRL)
 #### Self-RAG
+#### Thread of Thought(ThoT)
+#### Chain of Note(CoN)
+#### Chain of Verification(CoVe)
+#### RAPTOR
 
 ### Embedding
 #### Vector DB
@@ -195,6 +204,7 @@ markmap:
 ##### Folder
 ##### File
 ###### LlamaHub
+###### LlamaParse
 ##### Web
 ###### LlamaHub
 
@@ -219,16 +229,23 @@ markmap:
 ##### Azure AI Studio Evaluation
 ##### TruLens
 ##### Ragas
+##### Arthur Bench
+##### Vellum.ai
 
 #### Guardrails
 ##### LangKit
 ##### Guardrails AI
 ##### NeMo-Guardrails
 ##### Guardrails for Amazon Bedrock
+##### Presidio
 
 #### Optimization
 ##### GPTCache
 ##### LLMLingua
+
+#### Security
+##### Arthur Shield
+##### Cloudflare
 
 #### Development
 
@@ -244,7 +261,7 @@ markmap:
 
 #### AI ETL
 ##### Unstructured.io
-##### Neum.ai
+##### LlamaParse
 ##### Clarifai
 ##### EPAM AI DIA
 ##### LangSmith
@@ -294,3 +311,4 @@ markmap:
 
 ##### Cloudflare Workers AI
 ##### Upstash
+##### Modal
