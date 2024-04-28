@@ -21,14 +21,14 @@ markmap:
 
 #### Google
 ##### Vertex AI
-##### PaLM 2 API
+##### Gemini 1.5 Pro
 
 #### Anthropic
 ##### Claude 3
 ##### Claude Instant
 #### Cohere
-##### Coral
-##### Command R
+##### Rerank 3
+##### Command R+
 #### Inflection
 ##### Pi
 #### Perplexity
@@ -37,22 +37,20 @@ markmap:
 ### Self-hosted
 
 #### Common
-##### Llama 2
-##### Claude 2
+##### Llama 3
 ##### Falcon 180B
 ##### Pythia
 ##### Mixtral 8x7B
-##### Google Gemini
 
 
 #### Subject-specific
 ##### Small size
 ###### Mistral 7B
-###### Phi-2
+###### Phi-3
 ###### Orca 2
 ###### Stable LM 2 1.6B
 ###### TinyLlama
-###### Danube-1.8b
+###### OpenELM
 ###### Gemma
 
 ##### Code
@@ -72,6 +70,7 @@ markmap:
 ###### AlphaFold
 ###### Med-PaLM
 ###### MedGenie
+###### Palmyra-Med
 ##### Law
 ###### Saul-7B
 
@@ -80,7 +79,7 @@ markmap:
 ##### AnyMAL
 ##### LLaVA
 ##### ChatGPT-4V
-##### Gemini Ultra
+##### Gemini Pro 1.5
 ### SaaS
 
 #### AWS SageMaker
@@ -114,6 +113,7 @@ markmap:
 ##### RLHF
 ##### PAL
 ##### ULMFiT
+##### RAFT (Retrieval-Augmented Fine-Tuning)
 
 #### Merging
 ##### SLERP
@@ -137,19 +137,50 @@ markmap:
 
 ### Agent
 
-#### Task driven autonomous Agent
-##### BabyAGI
-##### Microsoft AutoGen
-##### AutoGPT
-##### superagent.sh
+#### Runtime
+##### E2B
+##### GCP
+##### AWS
+##### Azure
+##### Modal
 
-#### Sleeper Agent
+#### Orchestration
+##### AGiXT
+##### Semantic Kernel
+##### Crew AI
+##### LangGraph
 
-#### Multiplayer Agent
-##### MetaGPT
+#### Data Integration
+##### Vectara
+##### LlamaIndex
+##### Abacus.AI
 
-#### Tools & Agents
-##### Transformers Agent (Hugging Face)
+#### FrontEnd
+##### AgentLabs
+
+#### Platform
+##### Crew AI
+##### Vertex AI
+##### Hugging Face
+
+#### Frameworks
+##### General purpose
+###### BabyAGI
+###### MiniAGI
+###### MultiGPT
+###### Microsoft AutoGen
+
+##### Coding
+###### Cody
+###### GitLab Duo
+###### Devon
+###### Devika
+###### SWE Agent
+
+#### Monitoring
+##### Langsmith
+##### AgentOps
+##### Helicone
 
 ### Memorizing
 
@@ -169,6 +200,7 @@ markmap:
 #### Chain of Note(CoN)
 #### Chain of Verification(CoVe)
 #### RAPTOR
+#### Agentic RAG
 
 ### Embedding
 #### Vector DB
@@ -246,6 +278,7 @@ markmap:
 #### Security
 ##### Arthur Shield
 ##### Cloudflare
+##### Azure Prompt Shields
 
 #### Development
 
