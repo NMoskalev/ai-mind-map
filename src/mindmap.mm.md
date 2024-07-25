@@ -12,9 +12,9 @@ markmap:
 ### Paid API
 
 #### X
-##### Grok
+##### Grok-1.5
 #### OpenAI
-##### ChatGPT-4
+##### ChatGPT-4o
 
 #### Microsoft
 ##### Azure OpenAI
@@ -24,20 +24,17 @@ markmap:
 ##### Gemini 1.5 Pro
 
 #### Anthropic
-##### Claude 3
-##### Claude Instant
+##### Claude 3.5 Sonnet
 #### Cohere
-##### Rerank 3
 ##### Command R+
-#### Inflection
-##### Pi
-#### Perplexity
-##### Pplx-api
+#### Mistral
+##### Mistral-Large
+
 
 ### Self-hosted
 
 #### Common
-##### Llama 3
+##### Llama 3.1
 ##### Falcon 180B
 ##### Pythia
 ##### Mixtral 8x7B
@@ -45,21 +42,22 @@ markmap:
 
 #### Subject-specific
 ##### Small size
-###### Mistral 7B
+###### Mistral Nemo
 ###### Phi-3
 ###### Orca 2
 ###### Stable LM 2 1.6B
 ###### TinyLlama
 ###### OpenELM
-###### Gemma
+###### Gemma 2
 
 ##### Code
 ###### StableCode 3B
-###### Star Coder 2
+###### CodeStral
 ###### Code Llama 70B
 ###### SQLCoder 70B
-###### Google Codey
+###### CodeGemma 1.1
 ###### Replit Code V1.5 3B
+###### Granite Code
 
 ##### API
 ###### Gorilla (over 1,600 APIs)
@@ -67,10 +65,11 @@ markmap:
 ##### Finance
 ###### DocLLM
 ##### Medicine
-###### AlphaFold
-###### Med-PaLM
-###### MedGenie
+###### AlphaFold 3
+###### Med-PaLM 2
+###### OpenBioLLM 70B
 ###### Palmyra-Med
+###### Med-Gemini
 ##### Law
 ###### Saul-7B
 
@@ -80,6 +79,10 @@ markmap:
 ##### LLaVA
 ##### ChatGPT-4V
 ##### Gemini Pro 1.5
+##### Meta Chameleon
+
+#### Multilingual
+##### Aya 23
 ### SaaS
 
 #### AWS SageMaker
@@ -211,6 +214,8 @@ markmap:
 ##### Chroma
 ##### MongoDB
 ##### Milvus
+##### LanceDB
+
 #### Search
 ##### FAISS
 
@@ -291,6 +296,7 @@ markmap:
 
 #### Fine-tuning
 ##### SFTTrainer
+##### Predibase
 
 #### AI ETL
 ##### Unstructured.io
@@ -302,11 +308,11 @@ markmap:
 #### AI UI
 ##### Stremlit.io
 ##### Gradio
-##### HuggingFace Chat UI
 ##### Retool
-##### Google Project IDX
 ##### Vercel V0
+##### Coframe
 ##### tldraw
+##### Chainlit
 
 ### Platforms
 
